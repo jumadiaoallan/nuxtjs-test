@@ -1,0 +1,1 @@
+import{_ as e,L as t,A as a,t as c,B as r}from"./entry.597a1e1c.js";import{V as s}from"./VCard.a56fbcda.js";const o={};function n(_,f){return c(),t(s,{class:"pa-4"},{default:a(()=>[r(" 日別 月別 勤怠 ")]),_:1})}const i=e(o,[["render",n]]);export{i as default};

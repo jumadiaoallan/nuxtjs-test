@@ -1,0 +1,1 @@
+import{_ as e,L as t,A as a,t as s,x as c}from"./entry.597a1e1c.js";import{V as o}from"./VCard.a56fbcda.js";const r={},n=c("h1",null,"INDEX",-1);function _(d,f){return s(),t(o,{class:"pa-4"},{default:a(()=>[n]),_:1})}const p=e(r,[["render",_]]);export{p as default};

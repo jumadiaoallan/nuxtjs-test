@@ -1,0 +1,1 @@
+import{_ as a,L as e,A as t,t as o,B as r}from"./entry.597a1e1c.js";import{V as c}from"./VCard.a56fbcda.js";const s={};function d(_,n){return o(),e(c,{class:"pa-4"},{default:t(()=>[r(" add job ")]),_:1})}const i=a(s,[["render",d]]);export{i as default};
