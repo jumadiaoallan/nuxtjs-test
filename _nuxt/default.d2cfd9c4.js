@@ -1,0 +1,1 @@
+import{_ as t,v as s,a2 as c,t as o}from"./entry.d2ce358c.js";const r={},a={class:"h-screen text-white bg-[#f2f5f8]"};function n(e,f){return o(),s("div",a,[c(e.$slots,"default")])}const l=t(r,[["render",n]]);export{l as default};
