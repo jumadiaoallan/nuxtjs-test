@@ -1,13 +1,8 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
-import { resolve } from 'path'
 export default defineNuxtConfig({
-  ssr:false,
-  app: {
-    baseURL: '/nuxtjs-test/'
-  },
+  ssr: false,
   devtools: {
     enabled: true,
-
     timeline: {
       enabled: true,
     },
